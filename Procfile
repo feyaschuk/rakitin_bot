@@ -1,1 +1,1 @@
-web: python rakitin_bot.py
+worker: python rakitin_bot.py
