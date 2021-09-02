@@ -14,7 +14,6 @@
 * python-dotenv==0.13.0
 * python-telegram-bot==12.7
 * requests==2.23.0
-* telegram==0.0.1
 * heroku==0.1.4
 
 ### Как запустить проект:
