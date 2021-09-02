@@ -1,1 +1,1 @@
-bot: python rakitin_bot.py
+web: python rakitin_bot.py
