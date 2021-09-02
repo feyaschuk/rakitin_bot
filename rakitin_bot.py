@@ -22,7 +22,7 @@ try:
     TELEGRAM_TOKEN = os.environ['TELEGRAM_TOKEN'] 
     CHAT_ID = os.environ['TELEGRAM_CHAT_ID'] 
     URL = 'http://murders.ru/' 
-    TIME_SLEEP = 72 * 60 * 60 
+    TIME_SLEEP = 25 * 60 
     
 except Exception as e: 
     logging.error(e, exc_info=True) 

@@ -29,3 +29,4 @@ tornado==6.0.4
 typing-extensions==3.10.0.0
 urllib3==1.25.9
 zipp==3.5.0
+heroku==0.1.4

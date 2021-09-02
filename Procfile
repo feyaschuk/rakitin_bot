@@ -1,0 +1,1 @@
+bot: python rakitin_bot.py
