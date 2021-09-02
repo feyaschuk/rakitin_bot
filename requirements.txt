@@ -23,7 +23,6 @@ python-telegram-bot==12.7
 requests==2.23.0
 six==1.15.0
 soupsieve==2.2.1
-telegram==0.0.1
 toml==0.10.2
 tornado==6.0.4
 typing-extensions==3.10.0.0
